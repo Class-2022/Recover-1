@@ -1,0 +1,16 @@
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\bin\Debug\net5.0\Hello_World_recap.exe
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\bin\Debug\net5.0\Hello_World_recap.deps.json
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\bin\Debug\net5.0\Hello_World_recap.runtimeconfig.json
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\bin\Debug\net5.0\Hello_World_recap.runtimeconfig.dev.json
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\bin\Debug\net5.0\Hello_World_recap.dll
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\bin\Debug\net5.0\ref\Hello_World_recap.dll
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\bin\Debug\net5.0\Hello_World_recap.pdb
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\obj\Debug\net5.0\Hello_World_recap.csproj.AssemblyReference.cache
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\obj\Debug\net5.0\Hello_World_recap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\obj\Debug\net5.0\Hello_World_recap.AssemblyInfoInputs.cache
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\obj\Debug\net5.0\Hello_World_recap.AssemblyInfo.cs
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\obj\Debug\net5.0\Hello_World_recap.csproj.CoreCompileInputs.cache
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\obj\Debug\net5.0\Hello_World_recap.dll
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\obj\Debug\net5.0\ref\Hello_World_recap.dll
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\obj\Debug\net5.0\Hello_World_recap.pdb
+C:\Users\PC\finished\Desktop\vs_prog\Recap\Hello_World_recap\obj\Debug\net5.0\Hello_World_recap.genruntimeconfig.cache
